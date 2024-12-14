@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#maincontainer {
+    padding: 64px 158px 154px 158px;
+    align-items: center;
+}
+#colofuldiv {
+    padding: 96px;
+    
+    background: #E8EEFF;
+    max-width: 1604px;
+    text-align: center;
+}
+#maintitle {
+    color: #181D27;
+    text-align: center;
+    font-size: 72px;
+    width: 864px;
+    display: inline-block;
+}
+#analytics {
+    color: #05F;
+    font-size: 72px;
+}
+#smart {
+    color: #6941C6;
+    font-size: 72px;
+}
+#paragraph {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 24px;
+    display: inline-block;
+    width: 768px;
+}
+#firstimg {
+    margin-top: 64px;
+    width: 1200px;
+    border-radius: 32px;
+    border: 2px solid #D5D7DA;
+    background: #FFF;
+    padding: 4px;
+}
+
+#maindiv {
+   
+    margin: 0 auto;
+    text-align: center;
+}
+#firstdiv,
+#seconddiv,
+#thirddiv {
+    width: 320px;
+    display: inline-block;
+    background-color:  #fff;
+    padding: 16px;
+    border-radius: 8px;
+    align-items: center;
+    margin-right: 32px;
+    margin-top: 64px;
+}
+#circle {
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+}
+#inbox {
+    color: #181D27;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#firstparagraph {
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 12px;
+}
+#zap {
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+}
+#deliver {
+    color: #181D27;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#secondparagraph {
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 12px;
+}
+#square {
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+}
+#manage {
+    color: #181D27;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#thirdparagraph {
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 12px;
+}
+#footerdiv {
+    max-width: 1216px ;
+    background: #53389E;
+    border-radius: 24px;
+    margin-top: 64px;
+}
+#purplediv {
+    width: 736px;
+    text-align: center;
+    vertical-align: middle;
+}
+#shot {
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+    font-size: 36px;
+}
+#imgdiv {
+    vertical-align: middle;
+    text-align: end;
+   
+    
+}
+#join {
+    color: #E9D7FE;
+    font-size: 20px;
+}
+#firstbutton {
+    padding: 12px 18px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    border-radius: 8px;
+    width: 128px;
+}
+#learn {
+    color: #414651;
+    font-size: 16px;
+}
+#secondbutton {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    background: #7f56d9;
+    width: 128px;
+    margin-left: 8px;
+}
+#started {
+    color: #FFF;
+    font-size: 16px;
+}
+#buttondiv {
+    margin-top: 32px;
+}
