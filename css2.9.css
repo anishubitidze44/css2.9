@@ -126,9 +126,10 @@
     margin-top: 64px;
 }
 #purplediv {
-    width: 736px;
+    width: 476px;
     text-align: center;
     vertical-align: middle;
+    display: inline-block;
 }
 #shot {
     display: inline-block;
@@ -138,8 +139,12 @@
 }
 #imgdiv {
     vertical-align: middle;
-    text-align: end;
-   
+    width: 100%;
+    display: inline-block;
+   max-width: 662px;
+   overflow: hidden;
+   text-align: right;
+   border-radius: 8px;
     
 }
 #join {
